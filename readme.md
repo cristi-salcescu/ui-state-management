@@ -22,4 +22,6 @@ Here are some of the things we will go through:
 
 [https://www.amazon.co.uk/dp/B08X21JRTL](https://www.amazon.co.uk/dp/B08X21JRTL)
 
-[https://www.amazon.de/dp/B08X21JRTL](https://www.amazon.de/dp/B08X21JRTL)
+[https://www.amazon.es/dp/B08X21JRTL](https://www.amazon.es/dp/B08X21JRTL)
+
+[https://www.amazon.fr/dp/B08X21JRTL](https://www.amazon.fr/dp/B08X21JRTL)
