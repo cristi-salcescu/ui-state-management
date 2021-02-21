@@ -1,0 +1,26 @@
+{
+  "notes": [
+    {
+      "id" : 1,
+      "title" : "React",
+      "content" : "Here are my notes for React",
+      "categoryID" : 1
+    },
+    {
+      "id" : 2,
+      "title" : "Vue",
+      "content" : "Here are my notes for Vue",
+      "categoryID" : 2
+    }
+],
+  "categories": [
+    {
+        "id" : 1, 
+        "name" : "React"
+    },
+    {
+        "id" : 2, 
+        "name" : "Vue"
+    }    
+]
+}
